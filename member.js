@@ -1,3 +1,3 @@
-function skillMember(){
-    console.log('skillMember');
+function skillsMember(){
+    console.log("I am a member");
 }
